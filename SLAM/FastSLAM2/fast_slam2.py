@@ -5,7 +5,7 @@ FastSLAM 2.0 example
 author: Atsushi Sakai (@Atsushi_twi)
 
 """
-#new commit
+
 import numpy as np
 import math
 import matplotlib.pyplot as plt
